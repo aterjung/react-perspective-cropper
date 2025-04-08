@@ -30,7 +30,7 @@
     "release:major": "standard-version --release-as major"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^18.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
